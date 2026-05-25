@@ -1,4 +1,4 @@
-# Imperial Scent House — Landing Page Plan
+# Imperial Scent House, Landing Page Plan
 
 A premium dark + gold e-commerce landing page for the perfume brand, with full catalog, cart, checkout, and WhatsApp ordering.
 
